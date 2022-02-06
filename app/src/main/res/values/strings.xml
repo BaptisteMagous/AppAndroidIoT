@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Lumières Intelligentes</string>
+    <string name="menu">Menu</string>
+    <string name="monitor_title">Mon objet</string>
+    <string name="ambiances_title">Mes ambiances</string>
+
+    <string name="btn_connexion">Se connecter</string>
+    <string name="btn_changer_ambiance">Ambiance rouge</string>
+    <string name="btn_changer_ambiance2">Ambiance bleue</string>
+    <string name="btn_monitor">Voir mon objet</string>
+    <string name="btn_ambiances">Changer d\'ambiance</string>
+    <string name="btn_getData">Charger</string>
+
+    <string name="menu_connexion">Connexion</string>
+    <string name="tv_user">Utilisateur</string>
+    <string name="tv_password">Mot de passe</string>
+    <string name="mode1">Lumières Intelligentes Rouges</string>
+    <string name="mode2">Lumières Intelligentes Bleues</string>
+</resources>

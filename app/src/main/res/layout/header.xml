@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <TextView
+        android:id="@+id/txtmovieId"
+        android:layout_width="62dp"
+        android:layout_height="wrap_content"
+        android:text="ID"
+        android:textAlignment="center" />
+
+    <TextView
+        android:id="@+id/txtmovieTitle"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:text="Titre"
+        android:textAlignment="center" />
+
+    <TextView
+        android:id="@+id/txtmovieDuration"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:text="Durée"
+        android:textAlignment="center" />
+
+    <TextView
+        android:id="@+id/txtmovieReleaseDate"
+        android:layout_width="86dp"
+        android:layout_height="wrap_content"
+        android:text="Date de sortie"
+        android:textAlignment="center" />
+<!--
+    <TextView
+        android:id="@+id/txtmovieBudget"
+        android:layout_width="120dp"
+        android:layout_height="wrap_content"
+        android:text="Budget"
+        android:textAlignment="center"
+        android:layout_weight="0.25" />
+
+    <TextView
+        android:id="@+id/txtmovieRevenueAmount"
+        android:layout_width="78dp"
+        android:layout_height="wrap_content"
+        android:text="Revenue Amount"
+        android:textAlignment="center"
+        android:layout_weight="0.22" />
+-->
+    <TextView
+        android:id="@+id/txtCategory"
+        android:layout_width="71dp"
+        android:layout_height="wrap_content"
+        android:text="Catégorie"
+        android:textAlignment="center"
+        android:layout_weight="0.60" />
+
+    <TextView
+        android:id="@+id/txtDirector"
+        android:layout_width="71dp"
+        android:layout_height="wrap_content"
+        android:text="Directeur"
+        android:textAlignment="center"
+        android:layout_weight="0.60" />
+
+
+</LinearLayout>
+
